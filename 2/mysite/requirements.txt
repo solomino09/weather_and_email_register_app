@@ -37,7 +37,7 @@ singledispatch==3.4.0.3
 six==1.15.0
 stevedore==1.32.0
 typing==3.7.4.1
-urllib3==1.25.7
+urllib3==1.26.5
 virtualenv==20.0.18
 virtualenv-clone==0.5.4
 virtualenvwrapper==4.8.4
